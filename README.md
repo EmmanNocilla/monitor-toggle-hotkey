@@ -1,3 +1,8 @@
+![Windows](https://img.shields.io/badge/Windows-10/11-blue)
+[![Release](https://img.shields.io/github/v/release/EmmanNocilla/monitor-toggle-hotkey)](https://github.com/EmmanNocilla/monitor-toggle-hotkey/releases)
+[![Downloads](https://img.shields.io/github/downloads/EmmanNocilla/monitor-toggle-hotkey/total)](https://github.com/EmmanNocilla/monitor-toggle-hotkey/releases)
+
+
 # Monitor Toggle Hotkey
 
 A tiny Windows tray app that toggles between **Primary-only** and **Extend** with a global hotkey.
